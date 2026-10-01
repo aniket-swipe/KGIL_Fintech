@@ -1,0 +1,41 @@
+# KGIL Fintech Solutions Private Limited
+
+> KGIL Fintech Solutions Private Limited is the fintech subsidiary of KGIL Group, an Indian
+> group with interests in infrastructure, fintech and securities. It operates two consumer
+> brands: Swipeloan, a credit marketplace, and BestScore, a credit score monitoring platform.
+> KGIL Fintech does not lend. Loans shown on Swipeloan are sanctioned and disbursed by
+> registered partner banks and NBFCs under their own terms.
+
+This website is the corporate site for the legal entity. It is where vendors, lending
+partners, regulators and compliance teams confirm who the company is, where it is
+registered and how to reach it officially. Customer support for products is handled on
+each brand's own website.
+
+Key facts:
+
+- Legal name: KGIL Fintech Solutions Private Limited
+- CIN: U70200PN2024PTC231463
+- GSTIN: 27AALCK0617R1ZZ
+- Registered office: Office No. 202, Tower B, Terminal 1, MIDC Phase-1, Hinjewadi Phase 1 Road, Infotech Park, Hinjawadi, Pune, Maharashtra 411057, India
+- Parent: KGIL Group (https://kgilgroup.com/)
+- General email: info@swipeloan.in
+- Grievance Officer: Kunika Modi, grievance@swipeloan.in, +91 90280 65621
+
+## Pages
+
+- [Home](https://kgilfintech.com/): Company overview, what the company builds, how lending works on the platform, data and privacy practices, vision and mission, leadership, FAQ and registered contact details.
+- [Privacy policy](https://kgilfintech.com/privacy-policy/): Full privacy policy for the SWIPELOAN platform under the Information Technology Act, 2000 and the SPDI Rules, 2011, covering collection, processing, storage, transfer, disclosure, consent withdrawal and grievance redressal.
+- [Terms and Conditions](https://kgilfintech.com/terms-and-conditions/): Terms of use for the SWIPELOAN platform, covering acceptance, definitions, eligibility, the loan application, approval and disbursement flow, user obligations, disclaimers, account suspension, marketing, intellectual property, indemnification, dispute resolution and grievance redressal.
+
+## Brands
+
+- [Swipeloan](https://swipeloan.in): Credit marketplace. Compare and apply for loan offers from registered partner banks and NBFCs. Fully digital application and KYC. Android app and web.
+- [BestScore](https://bestscore.in): Credit score monitoring. Track your credit score over time and see plain-language explanations of the factors behind it. Android app and web.
+
+## Group
+
+- [KGIL Group](https://kgilgroup.com/): Parent group, with interests in infrastructure, fintech and securities.
+
+## Optional
+
+- [Full site content](https://kgilfintech.com/llms-full.txt): Every important fact from this site as a single plain-text document.

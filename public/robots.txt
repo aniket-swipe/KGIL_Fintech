@@ -1,0 +1,136 @@
+# robots.txt — KGIL Fintech Solutions Private Limited
+# https://kgilfintech.com
+#
+# Policy: the whole public site is open to search engines and to AI answer
+# engines. Only non-public areas and duplicate parameter URLs are closed off.
+# CSS, JavaScript, fonts and images are deliberately left crawlable so that
+# search engines can render and assess the pages correctly.
+
+# ---------------------------------------------------------------- default --
+User-agent: *
+Allow: /
+
+# Non-public areas. These do not exist today; listed so they stay out of the
+# index if they are ever added.
+Disallow: /admin/
+Disallow: /administrator/
+Disallow: /login
+Disallow: /logout
+Disallow: /signin
+Disallow: /signup
+Disallow: /account/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /private/
+Disallow: /internal/
+Disallow: /staging/
+Disallow: /preview/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+
+# Duplicate URLs. The site serves no query-string pages, so anything with a
+# "?" is a tracking or session variant of a canonical URL and is not worth
+# crawl budget. Remove this line if genuine query-string pages are added.
+Disallow: /*?
+
+# Source maps and raw data files should not be indexed as documents.
+Disallow: /*.map$
+
+# ----------------------------------------------------------- search crawl --
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Paid-search landing checks must not be blocked by the "?" rule above.
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+# ------------------------------------------------- AI and answer engines --
+# Allowed so that KGIL Fintech company facts are quoted accurately in AI
+# answers rather than being inferred from third-party sources.
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# ------------------------------------------------- high-volume scrapers --
+# Not blocked, but slowed down to protect server resources.
+
+User-agent: Bytespider
+Crawl-delay: 10
+
+User-agent: PetalBot
+Crawl-delay: 10
+
+User-agent: DataForSeoBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+User-agent: SeekportBot
+Crawl-delay: 10
+
+# ---------------------------------------------------------------- sitemap --
+Sitemap: https://kgilfintech.com/sitemap.xml

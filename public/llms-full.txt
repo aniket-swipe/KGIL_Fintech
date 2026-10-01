@@ -1,0 +1,248 @@
+# KGIL Fintech Solutions Private Limited — Full Site Content
+
+> Source: https://kgilfintech.com
+> Entity: KGIL Fintech Solutions Private Limited (CIN U70200PN2024PTC231463)
+> Purpose: corporate website for the legal entity. Product support lives on the
+> brand websites, swipeloan.in and bestscore.in.
+
+---
+
+## 1. Company overview
+
+KGIL Fintech Solutions Private Limited is the fintech arm of KGIL Group, a diversified
+Indian group with interests in infrastructure, fintech and securities. The company runs the
+group's consumer credit business through two brands: Swipeloan and BestScore.
+
+This website represents the legal entity. It is where vendors, lending partners and
+compliance teams can confirm who the company is, where it is registered and how to reach it
+officially. For product help, each brand has its own website and support team.
+
+Positioning statement: "Credit that people can actually read." The company builds digital
+products that help Indian consumers check their credit, watch it change, and find borrowing
+options that fit.
+
+Guiding idea: credit should be something you understand, not something that happens to you.
+
+At a glance:
+
+- Registered office: Pune, Maharashtra, India
+- Consumer brands: 2 — Swipeloan and BestScore
+- Lending model: partner-led. Banks and NBFCs lend; KGIL Fintech does not.
+
+## 2. What the company builds
+
+### Credit marketplace — through Swipeloan
+
+Compare loan offers from partner banks and NBFCs side by side, then apply for the one that
+fits, without visiting a branch.
+
+### Credit score monitoring — through BestScore
+
+A personalised view of your credit score, how it moves over time, and plain-language
+explanations of what is driving it.
+
+### Android app and web — across both brands
+
+Both platforms run as an Android app and in the browser, so people can check their credit
+and apply from the device they already use.
+
+## 3. How lending works on the platform
+
+Swipeloan is a marketplace. Loans are sanctioned and disbursed by registered lending
+partners, under their own terms. KGIL Fintech Solutions Private Limited is not the lender.
+
+1. Sign up — Create an account with your phone number and basic details.
+2. Verify identity — Complete KYC with Aadhaar and PAN through our verification partner.
+3. Compare offers — See offers you are eligible for from partner banks and NBFCs.
+4. Partner disburses — The lender you choose completes the sanction and disburses the loan.
+
+Important: loan terms, interest rates and repayment conditions are set by the lending
+partner and shown to you before you accept. Always read the lender's key fact statement
+before signing.
+
+## 4. Brands
+
+### Swipeloan — swipeloan.in
+
+A credit marketplace that helps people compare and access loan offers from partner lenders.
+
+- Offers from registered banks and NBFCs in one place
+- Fully digital application and KYC
+- Android app and web
+
+### BestScore — bestscore.in
+
+A personalised credit score monitoring platform that shows where you stand and why.
+
+- Score tracking over time
+- Insights on the factors behind your score
+- Android app and web
+
+Both brands are owned and operated by KGIL Fintech Solutions Private Limited.
+
+## 5. Data and privacy
+
+The company collects only what is needed to provide its services, with user consent, under
+the Information Technology Act, 2000 and the Information Technology (Reasonable Security
+Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 ("SPDI
+Rules").
+
+- Consent first — Access to device data such as SMS, files or contacts is requested only
+  when a service needs it.
+- Shared on need-to-know — Data goes only to the business partners who fulfil the service
+  you asked for.
+- Secured storage — Servers sit behind a firewall, with password-protected and strictly
+  limited access.
+- We never sell your data — Personal information is not sold or rented to advertisers or any
+  third party.
+
+Full policy: https://kgilfintech.com/privacy-policy/
+
+## 6. Vision, mission and values
+
+Vision: to make credit simple, transparent and accessible for every Indian consumer.
+
+Mission: to provide clear, reliable digital tools that help people check, monitor and improve
+their credit health, and find credit options that suit them.
+
+Values: transparency; customer trust; regulatory compliance; responsible use of data.
+
+## 7. Leadership
+
+The company is managed under the direction of its board and the leadership of KGIL Group.
+
+### Apoorv Gunjal — Founder & CEO
+
+Founder of KGIL Group, a dynamic entrepreneur and the driving force behind SwipeLoan. With a
+background in finance, he has held key roles in organizations like Aditya Birla Capital, Hero
+Fincorp, and Motilal Oswal Finance. His expertise includes digital lending, investment
+management, and financial inclusion.
+
+### Utsav Gupta — Co-Founder & CFO
+
+A dedicated professional with extensive expertise in financial operations, client servicing,
+and strategic management. With a solid foundation in the Hospitality Industry, he drives
+business growth and operational efficiency.
+
+### Harshita Gupta — Co-Founder & CMO
+
+A results-driven professional with a proven track record in business development and
+fundraising management. She excels in developing impactful strategies and building strong
+partnerships to drive strategic growth.
+
+## 8. Frequently asked questions
+
+Q: Does KGIL Fintech lend money directly?
+A: Loans shown on Swipeloan are sanctioned and disbursed by our lending partners — registered
+banks and NBFCs. We facilitate the comparison and application; the lender sets and applies
+its own terms.
+
+Q: How are Swipeloan and BestScore related to this company?
+A: Both are brands owned and operated by KGIL Fintech Solutions Private Limited, the fintech
+subsidiary of KGIL Group.
+
+Q: Where do I get help with my app account or loan?
+A: Use the support options on swipeloan.in or bestscore.in, or inside the app. For questions
+about a loan itself, you can also contact the lending partner named in your loan documents.
+
+Q: How do I raise a complaint about my personal data?
+A: Write to our Grievance Officer, Kunika Modi, at grievance@swipeloan.in or call
++91 90280 65621. Include your registered phone number and details of the issue so it can be
+resolved within the timelines set under the IT Act, 2000.
+
+Q: How can my company become a partner or vendor?
+A: Email info@swipeloan.in with your company details and the service you offer. Our team will
+respond with next steps and any documents needed for onboarding.
+
+Q: How do I stop promotional messages?
+A: Email info@swipeloan.in asking to opt out of promotional and marketing communication.
+Service messages about your account will still be sent.
+
+## 9. Registered details and contact
+
+Use these details for agreements, invoices and official communication with the company.
+
+Registered office:
+KGIL Fintech Solutions Private Limited
+Office No. 202, Tower B, Terminal 1, MIDC Phase-1, Hinjewadi Phase 1 Road,
+Infotech Park, Hinjawadi, Pune, Maharashtra 411057, India
+
+Phone:
++91 90280 65619
++91 90280 65620
++91 90280 73794
+
+Email: info@swipeloan.in
+
+Grievance Officer (for complaints about privacy or the use of personal information):
+Kunika Modi
+grievance@swipeloan.in
++91 90280 65621
+
+Statutory identifiers:
+CIN: U70200PN2024PTC231463
+GSTIN: 27AALCK0617R1ZZ
+
+## 10. Partner categories
+
+Services are delivered together with regulated and qualified partners, each bound by
+agreement to protect customer data: registered banks; NBFCs; credit assessment partners;
+KYC verification partners; payment gateways; customer support vendors; technology and
+hosting partners.
+
+## 11. Terms and Conditions — structure
+
+The full Terms and Conditions at https://kgilfintech.com/terms-and-conditions/ govern use of
+www.swipeloan.in and the SWIPELOAN mobile application, and cover:
+
+1. Introduction — SWIPELOAN is the platform operated by KGIL Fintech Solutions Private
+   Limited; using the platform forms a binding contract.
+2. Definitions — Applicable Laws, Platform, Business Partners (including Lending Partners),
+   Minor, User, User Information and Services.
+3. Acceptance of terms and general conditions — acceptance by use, legal capacity, the right
+   to amend the terms, and how feedback is treated.
+4. Eligibility and use of Services — account registration, one account per user, and the loan
+   journey: application, eligibility check, loan offer, approval, disbursement by the Lending
+   Partner and repayment; payment methods, GST on subscription plans, refunds, third-party
+   software and links.
+5. User obligations and responsibilities — accurate information, account security, and the
+   content users may not upload or transmit.
+6. General disclaimers — services provided "as is"; SWIPELOAN is a facilitator, not a lender;
+   total liability capped at fees paid in the preceding six months.
+7. Suspension and cancellation of User Account — grounds for suspension, how a user may
+   deactivate, and obligations surviving termination.
+8. Marketing and promotion — consent to promotional messages and how to opt out; DND, TRAI
+   and NDNC compliance.
+9. Intellectual property — ownership of platform content; permitted personal, non-commercial
+   use only.
+10. Indemnification — limitation of liability and the user's indemnity obligations.
+11. Dispute resolution — exclusive jurisdiction of the courts at Pune, India.
+12. General — entire agreement, severability, assignment, waiver, force majeure and survival.
+13. Grievance redressal — Grievance Officer contact details, 24-hour acknowledgement and
+    15-day resolution.
+
+## 12. Privacy policy — structure
+
+The full privacy policy at https://kgilfintech.com/privacy-policy/ applies to www.swipeloan.in
+and the SWIPELOAN mobile application, and covers:
+
+1. General — definitions of the Platform, Personal Information, Sensitive Personal
+   Information, Users and Business Partners; the policy's status as an electronic record
+   under the Information Technology Act, 2000.
+2. Processing of information — processing in India, and in other jurisdictions where a
+   contracted third party processes data on the company's behalf.
+3. Information collected — registration details, employment information, device data, and
+   the Sensitive Personal Information (financial details, Aadhaar and PAN) collected for KYC
+   and eligibility; correction and amendment rights.
+4. Transfer and disclosure of information — transfers to KYC partners, banking partners,
+   payment partners and partner NBFCs, and disclosure required by law.
+5. Processing of Information Collected — the full list of purposes for which data is used.
+6. Sharing of information — sharing with Business Partners on a need-to-know basis; the
+   company does not sell or rent personal information.
+7. Storage and security — secure storage behind a firewall; retention periods; the fact that
+   Sensitive Personal Information is not retained after it is shared with Business Partners.
+8. Consent and withdrawal of permissions — how to decline or withdraw consent, and the
+   consequences for service availability; opting out of promotional communication.
+9. Changes to privacy policy — how changes are notified.
+10. Grievance redressal — Grievance Officer contact details and resolution timelines under
+    the Information Technology Act, 2000.
