@@ -7,8 +7,8 @@ import harshitaPhoto from '../assets/leadership/harshita-gupta.jpg';
 export const company = {
   name: 'KGIL Fintech Solutions Private Limited',
   address:
-    'Office No. 202, Tower B, Terminal 1, MIDC Phase‑1, Hinjewadi Phase 1 Road, Infotech Park, Hinjawadi, Pune, Maharashtra 411057, India',
-  shortAddress: 'Tower B, Terminal 1, Infotech Park, Hinjawadi, Pune 411057',
+    'Office No. 203, Tower B, Terminal 1, MIDC Phase‑1, Hinjewadi Phase 1 Road, Infotech Park, Hinjawadi, Pune, Maharashtra 411057, India',
+  shortAddress: '203, Tower B, Terminal 1, Infotech Park, Hinjawadi, Pune 411057',
   mapsUrl:
     'https://www.google.com/maps/search/?api=1&query=Tower+B+Terminal+1+MIDC+Phase+1+Hinjewadi+Infotech+Park+Hinjawadi+Pune+411057',
   email: 'info@swipeloan.in',

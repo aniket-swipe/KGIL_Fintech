@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import BackToTop from './components/BackToTop';
+import Cursor from './components/Cursor';
 import HomePage from './pages/HomePage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
 import TermsConditionsPage from './pages/TermsConditionsPage';
@@ -57,6 +58,7 @@ export default function App({ url }) {
       <View />
       <Footer />
       <BackToTop />
+      <Cursor />
     </>
   );
 }

@@ -79,7 +79,7 @@ export const indexablePages = Object.values(pages).filter((p) => p.indexable);
 
 const postalAddress = {
   '@type': 'PostalAddress',
-  streetAddress: 'Office No. 202, Tower B, Terminal 1, MIDC Phase-1, Hinjewadi Phase 1 Road, Infotech Park',
+  streetAddress: 'Office No. 203, Tower B, Terminal 1, MIDC Phase-1, Hinjewadi Phase 1 Road, Infotech Park',
   addressLocality: 'Hinjawadi, Pune',
   addressRegion: 'Maharashtra',
   postalCode: '411057',

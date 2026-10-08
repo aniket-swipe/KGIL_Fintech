@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { ArrowRight } from '../components/icons';
 import { brands, company } from '../data/site';
 
@@ -13,26 +14,26 @@ export default function NotFoundPage() {
   return (
     <main id="site">
       <div className="wrap doc notfound">
-        <div className="doc-head">
+        <Reveal className="doc-head">
           <span className="kicker">Error 404</span>
           <h1>This page could not be found</h1>
           <p className="lede" style={{ marginTop: 14 }}>
             The address you opened does not exist on the {company.name} website. It may have been moved,
             or the link that brought you here may be out of date.
           </p>
-        </div>
+        </Reveal>
 
-        <h2>Where to go instead</h2>
+        <Reveal as="h2" delay={1}>Where to go instead</Reveal>
         <ul className="fourohfour">
-          {elsewhere.map(({ label, href, note }) => (
-            <li key={href}>
+          {elsewhere.map(({ label, href, note }, i) => (
+            <Reveal as="li" key={href} delay={Math.min(i + 1, 4)}>
               <a className="link" href={href}>{label}</a>
               <span>{note}</span>
-            </li>
+            </Reveal>
           ))}
         </ul>
 
-        <p className="lede">
+        <Reveal as="p" className="lede" delay={1}>
           Looking for a loan or your credit score? Those run on our brand websites,{' '}
           <a className="link" href={brands.swipeloan.url} target="_blank" rel="noopener">
             {brands.swipeloan.domain}
@@ -41,11 +42,13 @@ export default function NotFoundPage() {
           <a className="link" href={brands.bestscore.url} target="_blank" rel="noopener">
             {brands.bestscore.domain}
           </a>.
-        </p>
+        </Reveal>
 
-        <a className="btn solid" href="/">
-          Back to the homepage <ArrowRight />
-        </a>
+        <Reveal delay={2}>
+          <a className="btn solid" href="/">
+            Back to the homepage <ArrowRight />
+          </a>
+        </Reveal>
       </div>
     </main>
   );
